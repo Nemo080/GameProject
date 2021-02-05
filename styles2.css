@@ -1,0 +1,49 @@
+body{
+  background-color: black;
+}
+
+.header{
+  background-color:palegreen;
+  padding:30px;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  color: black;
+  padding-left: 20px;
+  padding-right: 50px;
+
+}
+
+.banner{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.table{
+  color: white;
+}
+
+a:link, a:visited {
+  background-color: palegreen;
+  color: black;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 30px;
+}
+
+a:hover, a:active {
+  background-color: seagreen;
+  font-family: 'Press Start 2P', cursive;
+
+}
+
+.body{
+  color: white;
+  font-size: 30px;
+}
+
+.done{
+  font-size: 50px;
+}

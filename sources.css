@@ -1,0 +1,40 @@
+body{
+  background-color: black;
+}
+
+.header{
+  background-color:palegreen;
+  padding:30px;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  color: black;
+}
+
+a:link, a:visited {
+  background-color: powderblue;
+  color: orangered;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: SteelBlue;
+}
+
+.link{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#sources{
+  background-color: palegreen;
+  color: black;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Press Start 2P', cursive;
+}

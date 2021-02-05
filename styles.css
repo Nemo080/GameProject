@@ -1,0 +1,41 @@
+body{
+  background-color: black;
+}
+
+.header{
+  background-color:palegreen;
+  padding:30px;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  color: black;
+  border-radius: 60%;
+}
+a:link, a:visited {
+  background-color: palegreen;
+  color: black;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 30px;
+}
+
+a:hover, a:active {
+  background-color: seagreen;
+  font-family: 'Press Start 2P', cursive;
+
+}
+.gamebox{
+  color:white;
+}
+
+#sources{
+  background-color: palegreen;
+  color: black;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Press Start 2P', cursive;
+}
